@@ -2,17 +2,17 @@ const FeedbackData = [
   {
     id: 1,
     rating: 10,
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.",
+    text: "This restaurant is amazing! The food is delicious and the service is top-notch.",
   },
   {
     id: 2,
     rating: 9,
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.",
+    text: "I love this book! It is well-written and kept me hooked until the end.",
   },
   {
     id: 3,
     rating: 8,
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.",
+    text: "This product is great! It is easy to use and has exceeded my expectations.",
   },
 ];
 
